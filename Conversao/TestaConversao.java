@@ -31,6 +31,8 @@ public class TestaConversao {
 		//32byte de memoria 
 		float pontoFutuante2 =3.3222222222222222222222f;
 		System.out.println("pontoFutuante 32 byte tem que ter f no final:"+pontoFutuante2);
+		
+		
 
 	}
 }
